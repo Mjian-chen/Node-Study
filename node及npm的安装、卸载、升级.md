@@ -14,8 +14,8 @@ sudo npm install npm@xxxx -g
 #### 最后将node升级到最新的版本或者指定的版本
 ```
 sudo n stable
-sudo n v 9.3.0
+sudo n v9.3.0
 ```
 
 #### 说明
-H5 先降级安装node的低版本，再安装最新的npm，是为了避免在高版本的node环境中升级npm中出现包找不到的问题。
+先降级安装node的低版本，再安装最新的npm，是为了避免在高版本的node环境中升级npm中出现包找不到的问题。
